@@ -1,0 +1,39 @@
+body{
+	background-color:white;
+	color:black;
+	text-align:center;
+	font-family: Lucida;
+}
+
+ol{
+	text-align:center;
+	font-size: 28px;
+	list-style-position: inside;
+}
+
+#green{
+	color:#1aff1a;
+}
+
+#blue{
+	color:lightblue;
+}
+
+#purple{
+	color:#d9b3ff;
+}
+
+#maroon{
+	color: #99004d;
+}
+
+#sweets{
+	color: black;
+	font-size: 20px;
+}
+
+ul{
+	text-align: center;
+	font-size: 28px;
+	list-style-position: inside;
+}
